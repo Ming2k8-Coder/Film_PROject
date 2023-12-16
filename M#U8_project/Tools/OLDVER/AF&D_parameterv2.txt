@@ -1,0 +1,16 @@
+#This is parameter of anime find&Downloader by Minh2k8
+#Any line have this character "#" won't be readed
+#Order of parameter:, serverlink list(svlst), different list(diflst)
+https://s1.animeweb.xyz/media/video-clips/anime/ svlst
+https://s1.animeweb.xyz/media/video-clips/anime2/ svlst
+https://s2.animeweb.xyz/media/video-clips/anime/ svlst
+https://s2.animeweb.xyz/media/video-clips/anime2/ svlst
+1-7-19 diflst
+00-2021 diflst
+0-6-19 diflst
+01-2021 diflst
+02-2021 diflst
+01-2022 diflst
+2-6-19 diflst
+1-6-19 diflst
+00-2020 diflst
